@@ -542,3 +542,15 @@ Received Import Request.
 Start importing Assets/Scenes/CodeNinja.unity using Guid(37ff0710e6998d14eb4f298e4f1ce97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d488189617253ceb38aad1ebd4f0de') in 0.198009 seconds
   Import took 0.205121 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005592 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
